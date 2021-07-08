@@ -1,5 +1,5 @@
 # Lorenz-System
-A javascript project to animate Lorenz System
+A javascript project to draw Lorenz System
 
 **Try it out here:** [Lorenz System](https://sanskarjaiswal2001.github.io/Lorenz-System/)
 
