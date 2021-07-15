@@ -9,7 +9,7 @@ var points = new Array();
 
 function setup() 
 {
-  createCanvas(1536, 749, WEBGL);
+  createCanvas(windowWidth, windowHeight, WEBGL);
   colorMode(HSB);
 }
 
